@@ -53,4 +53,3 @@ A documentação se encontra na URL raíz do projeto, no caso em: `http://0.0.0.
 
 ---
 
-_Criado por Fernando Gomes e Roberto Duarte, 2023 - Versão 1.0_
