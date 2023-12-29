@@ -1,0 +1,6 @@
+indexes:
+
+- kind: Pedidos
+  properties:
+  - name: document
+  - name: date_request
